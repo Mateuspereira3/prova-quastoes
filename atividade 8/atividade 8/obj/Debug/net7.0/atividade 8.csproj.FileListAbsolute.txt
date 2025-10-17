@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\bin\Debug\net7.0\atividade 8.exe
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\bin\Debug\net7.0\atividade 8.deps.json
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\bin\Debug\net7.0\atividade 8.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\bin\Debug\net7.0\atividade 8.dll
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\bin\Debug\net7.0\atividade 8.pdb
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.dll
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\refint\atividade 8.dll
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.pdb
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\atividade 8.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Downloads\prova logp 17-10-2\atividade 8\atividade 8\obj\Debug\net7.0\ref\atividade 8.dll
